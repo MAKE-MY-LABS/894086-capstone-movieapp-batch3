@@ -1,8 +1,7 @@
 package com.capstone.movieapp.service;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.LinkedHashMap;
+
 
 /*
  * create class for the MovieServiceImpl which implements the MovieService
